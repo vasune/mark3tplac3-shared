@@ -1,4 +1,4 @@
-module mark3tplac3-shared
+module github.com/vasune/mark3tplac3-shared
 
 go 1.26.3
 
